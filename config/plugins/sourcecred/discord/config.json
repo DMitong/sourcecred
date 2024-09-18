@@ -1,13 +1,11 @@
 [
   {
-    "guildId": "1236297454349979698",
     "channelWeightConfig": {
       "defaultWeight": 1,
       "weights": {
-        "1236297455415595054": 3,
-        "1236297455415595053//general channel": 1
       }
     },
+    "guildId": "1236297454349979698",
     "includeNsfwChannels": false,
     "propsChannels": [
       "1236297455415595054",
@@ -18,10 +16,10 @@
       "defaultWeight": 1,
       "weights": {
         "sourcecred:678399364418502669": 10,
-          "👍": 1,
-          "👏": 1,
-          "💜": 1,
-          "🚀": 1
+        "👍": 1,
+        "🤛": 1,
+        "💜": 1,
+        "🚀": 1
       }
     },
     "roleWeightConfig": {
